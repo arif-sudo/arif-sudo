@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on WeblunaLLC<br>🌱 I’m currently learning Node js & Nest js<br>⚡ ᓚᘏᗢ
-
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arif-mammadov-60231a235) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Arif520gg) 
