@@ -1,5 +1,5 @@
 # 💫 About Me:<img style="margin: 50px 0" align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-🔭 I’m currently working on WeblunaLLC<br>🌱 I’m currently learning Node js & Nest js<br>⚡ ᓚᘏᗢ
+  I’m currently working on WeblunaLLC<br><!--🌱 I’m currently learning Node js & Nest js<br>⚡ ᓚᘏᗢ -->
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arif-mammadov-60231a235) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Arif520gg)
 
@@ -16,6 +16,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=arif-sudo&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=arif-sudo&icon=3&color=8)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=arif-sudo&icon=3&color=8)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
