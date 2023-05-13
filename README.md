@@ -16,6 +16,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=arif-sudo&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) -->
 
 ---
-<!-- [![](https://visitcount.itsvg.in/api?id=arif-sudo&icon=3&color=8)](https://visitcount.itsvg.in) -->
+[![](https://visitcount.itsvg.in/api?id=arif-sudo&icon=3&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
