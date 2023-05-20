@@ -6,17 +6,7 @@
 
 # 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arif-sudo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arif-sudo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arif-sudo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 [![](https://visitcount.itsvg.in/api?id=arif-sudo&icon=3&color=8)](https://visitcount.itsvg.in)
 
-<!-- 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=arif-sudo&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) -->
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
